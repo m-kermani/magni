@@ -25,3 +25,5 @@ This is the magni function and argumants with description:
 `$('body').magni(2,200,200,'circle','rgba(125,125,125,0.5)',2,'no');`
 
 `$('body').magni(4,200,200,'Circle','red',2,'yes');`
+
+Do and Learn, it is really easy!
